@@ -12,12 +12,6 @@ function parseJSON(response)
     return response.json();
 }
 
-// POKEMON CODE ONLY //
-
-
-
-// END OF POKEMON //
-
 function getImage(response)
 {
     const body = document.body
